@@ -67,14 +67,5 @@ git push -u origin <branch-name>
 
 ---
 
-<style>
-    .circle {
-        border-radius: 100px;
-    }
-</style>
-
 ## Thanks to all the Contributers -
 
-<a href="https://github.com/yash-gulatii">
-  <img class="circle" src="https://github.com/yash-gulatii.png?size=50">
-</a>
