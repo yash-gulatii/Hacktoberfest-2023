@@ -5,6 +5,14 @@
 <div align="left" >
 <div/>
 
+## Do Check out [Contributing.md](Contributing.md)
+
+## Thanks to all the Contributers -
+
+<a href="https://github.com/yash-gulatii/Hacktoberfest-2023/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=yash-gulatii/Hacktoberfest-2023" />
+</a>
+
 ## How to Contribute in Hacktoberfest 2023?
 
 ### If you are very new to Open Source and Don't Know about Git and Github you should learn them. [Learn Git and Github](https://www.youtube.com/watch?v=apGV9Kg7ics)
@@ -19,13 +27,7 @@
 git clone https://github.com/yash-gulatii/Hacktoberfest-2023.git
 ```
 
-#### Make a Directory
-
-```bash
-mkdir Directory_Name
-```
-
-#### Add your Code in the Directory
+#### Add your Code in the Directory for Your Programming Language (Create a Directory if it doesn't exists)
 
 ```bash
 cd Directory_Name
@@ -62,10 +64,4 @@ git push -u origin <branch-name>
 ```
 
 #### Create a Pull Request on this Repository
-
-## After Creating Pull Request Go to the [Contributers.md](https://github.com/yash-gulatii/Hacktoberfest-2023/contributers.md)
-
----
-
-## Thanks to all the Contributers -
 
