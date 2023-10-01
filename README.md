@@ -9,9 +9,9 @@
 
 ## Thanks to all the Contributers -
 
-<a href="https://github.com/yash-gulatii/Hacktoberfest-2023/graphs/contributors">
+[<a href="https://github.com/yash-gulatii/Hacktoberfest-2023/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=yash-gulatii/Hacktoberfest-2023" />
-</a>
+</a>](https://github.com/yash-gulatii/Hacktoberfest-2023)
 
 ## How to Contribute in Hacktoberfest 2023?
 
